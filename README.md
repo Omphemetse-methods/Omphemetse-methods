@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Hello](https://raw.githubusercontent.com/nearbycoder/nearbycoder/master/header.svg)
+
+
 <!--
 **Omphemetse-methods/Omphemetse-methods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
